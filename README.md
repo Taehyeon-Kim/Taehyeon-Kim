@@ -1,5 +1,5 @@
-
-<h1 align='center'>hi, taeeehyeon 👀</h1>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaehyeon-Kim&count_bg=%23DED0FF&title_bg=%239E9E9E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<h1 align='center'>hi, taeeehyeon 👀</h1> 
 
 <p align='center'> 
 <a href="https://www.instagram.com/taekki.dev/"><img height="32" src="https://github.com/Taehyeon-Kim/Taehyeon-Kim/blob/master/icon/iconfinder_social-media_instagram_1543322.png?raw=true"></a>&nbsp;&nbsp;
@@ -26,7 +26,23 @@
 
 <br>
 
+<h3 align='center'> Activities </h3>
+
+  |기간|활동|비고|
+  |---|----|---|
+  |2016.04 - 2017.11| 성균관대학교 창업학회 **노벨러**| 2기·3기·4기 멤버, 3기·4기 운영진 |
+  |2016.09 - 2016.11| 대학생 창업동아리 네트워크 **SIGN**|U-demoday 주최측(노벨러) 참여|
+  |2017.09 - 2017.12| 2017 하반기 코드클럽 **대학생 SW교육기부단** |코드클럽한국위원회 주최 |
+  |2020.05 - 2020.12 |컴퓨터교육과 프로그래밍 학회 **CMD**|
+  |2020.11 - 2021.03| 외주연계 프로그래밍 교육과정 **소프트스퀘어드** 12기|
+  |2021.03 - (~ing) | 대학생 연합 IT 벤처 창업 동아리 **SOPT** 28기 iOS 파트|
+
+
+<br>
+
 <h3 align='center'> Stats </h3>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Taehyeon-Kim)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taehyeon-Kim&layout=compact)](https://github.com/Taehyeon-Kim/github-readme-stats)
+
+
