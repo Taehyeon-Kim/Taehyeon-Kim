@@ -1,19 +1,17 @@
 
-## Taehyeon-Kim  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaehyeon-Kim&count_bg=%23E3F8AD&title_bg=%236FD1AC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-👨🏻‍💻 🔥 ```잘하고 싶다 격렬하게```  
-🌱 I'm a student developer studying iOS, web programming.  
-🌱 I'm interested in swift, web front-end, ux/ui design.  
+<h1 align='center'>hi, taeeehyeon 👀</h1>
+
+<p align='center'> 
+<a href="https://www.instagram.com/taekki.dev/"><img height="32" src="https://github.com/Taehyeon-Kim/Taehyeon-Kim/blob/master/icon/iconfinder_social-media_instagram_1543322.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/taekki97"><img height="30" src="https://github.com/Taehyeon-Kim/Taehyeon-Kim/blob/master/icon/iconfinder_social-media_facebook_1543325.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:taehyeon.dev@gmail.com?subject=subject text"><img height="30" src="https://github.com/Taehyeon-Kim/Taehyeon-Kim/blob/master/icon/iconfinder_social-media_gmail_1873613.png?raw=true"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://github.com/Taehyeon-Kim/Taehyeon-Kim/blob/master/icon/iconfinder_84_Dev_logo_logos_4374078.png?raw=true"></a>&nbsp;&nbsp;
+</p>
+
+<h3 align='center'> 💁🏻 Tae-hyeon Kim |  iOS Developer | 🇰🇷 Seoul, Korea </h3> 
+
+<br>
 
 ### Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Taehyeon-Kim)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://taekki.dev">
-    <img 
-        src="http://img.shields.io/badge/-Blog-555?style=flat&logo=GitHub&link=https://taekki.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://instagram.com/taekki.dev">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-f5efef?style=flat&logo=Instagram&link=https://instagram.com/taekki.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taehyeon-Kim&layout=compact)](https://github.com/Taehyeon-Kim/github-readme-stats)
