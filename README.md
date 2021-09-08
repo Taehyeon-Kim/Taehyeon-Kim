@@ -8,6 +8,16 @@
 <a href="https://taekki-dev.tistory.com/"><img height="30" src="https://github.com/Taehyeon-Kim/Taehyeon-Kim/blob/master/icon/iconfinder_84_Dev_logo_logos_4374078.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
+<br>
+
+<h3 align='center'> Portfolio </h3>
+<p align=center>
+  <a href = "https://tame-trawler-abc.notion.site/53265ed1f0414e7daafe07aa0d7396ad">🐳 포트폴리오 바로가기</a>
+
+</p>
+
+<br>
+
 <h3 align='center'> 💁🏻 Tae-hyeon Kim |  iOS Developer | 🇰🇷 Seoul, Korea </h3> 
 
 <br>
