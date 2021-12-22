@@ -1,4 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaehyeon-Kim&count_bg=%23DED0FF&title_bg=%239E9E9E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![banner2](https://user-images.githubusercontent.com/61109660/147061006-c015702c-3fe2-4255-b4a7-229aa3b145db.png)
+
 <h1 align='center'>hi, taeeehyeon 👀</h1> 
 
 <p align='center'> 
