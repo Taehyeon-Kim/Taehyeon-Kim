@@ -15,8 +15,7 @@
 
 <h3 align='center'> Portfolio </h3>
 <p align=center>
-  <a href = "https://tame-trawler-abc.notion.site/53265ed1f0414e7daafe07aa0d7396ad" style="color: black">포트폴리오 바로가기</a>
-
+  <a href = "#" style="color: black">준비중입니다🤖</a>
 </p>
 
 <br>
