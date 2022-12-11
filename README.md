@@ -58,13 +58,6 @@ iOS 개발자가 되고 싶어요, 제발요  (사과 3개 드릴게요
   |2021.03 - 2021.07 | 대학생 연합 IT 벤처 창업 동아리 **SOPT** 28기 iOS 파트 수료|앱잼 참여팀 `두리번` 대상|
   |2021.09 - 2022.01 | 대학생 연합 IT 벤처 창업 동아리 **SOPT** 29기 iOS 파트 수료|솝커톤 참여팀 `ME:EW` 대상, <br/>앱잼 참여팀 `소복소복` 최우수상|
   |2022.03 - 2022.07 | 대학생 연합 IT 벤처 창업 동아리 **SOPT** 30기 iOS 파트장||
-  |2022.07 ~ | 새싹(SeSAC) iOS 앱 개발자 데뷔과정 2기 ||
+  |2022.07 - 2022.12 | 새싹(SeSAC) iOS 앱 개발자 데뷔과정 2기 수료||
 
-<br>
-
-<h3 align='center'> Stats </h3>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Taehyeon-Kim)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taehyeon-Kim&layout=compact)](https://github.com/Taehyeon-Kim/github-readme-stats)
-
-
+<br/>
