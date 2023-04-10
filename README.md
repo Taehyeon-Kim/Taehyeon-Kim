@@ -1,7 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaehyeon-Kim&count_bg=%23DED0FF&title_bg=%239E9E9E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![banner2](https://user-images.githubusercontent.com/61109660/147061006-c015702c-3fe2-4255-b4a7-229aa3b145db.png)
-
 <h1 align='center'>hi, taeeehyeon 👀</h1> 
 
 <p align='center'> 
@@ -9,13 +7,6 @@
 <a href="https://www.facebook.com/taekki97"><img height="30" src="https://github.com/Taehyeon-Kim/Taehyeon-Kim/blob/master/icon/iconfinder_social-media_facebook_1543325.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:taehyeon.dev@gmail.com?subject=subject text"><img height="30" src="https://github.com/Taehyeon-Kim/Taehyeon-Kim/blob/master/icon/iconfinder_social-media_gmail_1873613.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://taekki-dev.tistory.com/"><img height="30" src="https://github.com/Taehyeon-Kim/Taehyeon-Kim/blob/master/icon/iconfinder_84_Dev_logo_logos_4374078.png?raw=true"></a>&nbsp;&nbsp;
-</p>
-
-<br>
-
-<h3 align='center'> Portfolio </h3>
-<p align=center>
-  <a href = "#" style="color: black">준비중입니다🤖</a>
 </p>
 
 <br>
@@ -37,13 +28,6 @@
 </p>
 
 <br>
-
-<h3 align='center'> I'm </h3>
-
-<p align=center>
-iOS 개발자가 되고 싶어요, 제발요  (사과 3개 드릴게요) <br>
-</p>
-
 <br>
 
 <h3 align='center'> Activities </h3>
