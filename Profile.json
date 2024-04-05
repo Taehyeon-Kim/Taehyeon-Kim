@@ -4,5 +4,22 @@
   "address": "Seoul, South Korea",
   "backgroundImageURLString": "https://i.pinimg.com/originals/84/18/64/8418640e77c4adbf82f7fd579e011be8.png",
   "profileImageURLString": "https://raw.githubusercontent.com/taehyeon-kim/taehyeon-kim/master/icon/profile-memoji.png",
+  "icons": [
+    {
+      "iconURLString": "https://raw.githubusercontent.com/taehyeon-kim/taehyeon-kim/master/icon/bemyplan-logo.png"
+    },
+    {
+      "iconURLString": "https://raw.githubusercontent.com/taehyeon-kim/taehyeon-kim/master/icon/soboksobok-logo.png"
+    },
+    {
+      "iconURLString": "https://raw.githubusercontent.com/taehyeon-kim/taehyeon-kim/master/icon/sora-logo.jpeg"
+    },
+    {
+      "iconURLString": "https://raw.githubusercontent.com/taehyeon-kim/taehyeon-kim/master/icon/dooribon-logo.jpeg"
+    },
+    {
+      "iconURLString": "https://raw.githubusercontent.com/taehyeon-kim/taehyeon-kim/master/icon/fogfog-logo.png"
+    }
+  ],
   "introduction": "I want to spread the sharing and the value. I'm very interested in UX/UI, and I like to analyze the product's case based on Apple's Human Interface Guide."
 }
