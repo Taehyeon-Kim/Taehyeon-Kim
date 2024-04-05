@@ -1,7 +1,8 @@
 {
   "name": "KIM TAE HYEON",
   "nickname": "tae_kki",
-  "address": "Seoul, South Korea"
+  "address": "Seoul, South Korea",
+  "backgroundImageURLString": "https://i.pinimg.com/originals/84/18/64/8418640e77c4adbf82f7fd579e011be8.png",
   "profileImageURLString": "https://raw.githubusercontent.com/taehyeon-kim/taehyeon-kim/master/icon/profile-memoji.png",
   "introduction": "I want to spread the sharing and the value. I'm very interested in UX/UI, and I like to analyze the product's case based on Apple's Human Interface Guide."
 }
