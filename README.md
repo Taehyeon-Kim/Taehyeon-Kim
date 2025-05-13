@@ -1,4 +1,5 @@
 ## 👋 Hi, I'm Taehyeon Kim
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FTaehyeon-Kim&label=visitors&icon=github&color=%233d8bfd)
 
 I'm currently focused on building domain-specific AI agents  
 using Python, LangChain, and LangGraph.
